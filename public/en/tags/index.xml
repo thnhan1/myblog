@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nhan blog</title>
-    <link>//localhost:1313/en/tags/</link>
+    <link>/en/tags/</link>
     <description>Recent content in Tags on Nhan blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="//localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>//localhost:1313/en/tags/blog/</link>
+      <link>/en/tags/blog/</link>
       <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
       
-      <guid>//localhost:1313/en/tags/blog/</guid>
+      <guid>/en/tags/blog/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Guide</title>
-      <link>//localhost:1313/en/tags/guide/</link>
+      <link>/en/tags/guide/</link>
       <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
       
-      <guid>//localhost:1313/en/tags/guide/</guid>
+      <guid>/en/tags/guide/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Hugo</title>
-      <link>//localhost:1313/en/tags/hugo/</link>
+      <link>/en/tags/hugo/</link>
       <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
       
-      <guid>//localhost:1313/en/tags/hugo/</guid>
+      <guid>/en/tags/hugo/</guid>
       
       <description></description>
       

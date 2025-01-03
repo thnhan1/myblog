@@ -2,132 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/vi/posts/</loc>
+    <loc>/vi/posts/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/posts/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/posts/"
+                href="/vi/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/blog/</loc>
+    <loc>/vi/tags/blog/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/blog/"
+                href="/en/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/tags/blog/"
+                href="/vi/tags/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/guide/</loc>
+    <loc>/vi/tags/guide/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/guide/"
+                href="/en/tags/guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/tags/guide/"
+                href="/vi/tags/guide/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/hugo/</loc>
+    <loc>/vi/tags/hugo/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/hugo/"
+                href="/en/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/tags/hugo/"
+                href="/vi/tags/hugo/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/posts/hugo-guide/</loc>
+    <loc>/vi/posts/hugo-guide/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/posts/hugo-guide/"
+                href="/en/posts/hugo-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/posts/hugo-guide/"
+                href="/vi/posts/hugo-guide/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/</loc>
+    <loc>/vi/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/"
+                href="/vi/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/</loc>
+    <loc>/vi/tags/</loc>
     <lastmod>2025-01-02T21:33:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/tags/"
+                href="/vi/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/about/</loc>
+    <loc>/vi/about/</loc>
     <lastmod>2025-01-02T12:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/about/"
+                href="/vi/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/categories/</loc>
+    <loc>/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/categories/"
+                href="/vi/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/404/</loc>
+    <loc>/vi/404/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/404/"
+                href="/en/404/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="//localhost:1313/vi/404/"
+                href="/vi/404/"
                 />
   </url>
 </urlset>

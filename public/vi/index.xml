@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nhan blog</title>
-    <link>//localhost:1313/vi/</link>
+    <link>/vi/</link>
     <description>Recent content on Nhan blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
-    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="//localhost:1313/vi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hướng Dẫn Hugo-Blog-Awesome</title>
-      <link>//localhost:1313/vi/posts/hugo-guide/</link>
+      <link>/vi/posts/hugo-guide/</link>
       <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
       
-      <guid>//localhost:1313/vi/posts/hugo-guide/</guid>
+      <guid>/vi/posts/hugo-guide/</guid>
       
       <description>&lt;h1 id=&#34;hỗ-trợ-emoji&#34;&gt;Hỗ trợ Emoji&lt;/h1&gt;
 &lt;p&gt;Bật tính năng hỗ trợ emoji trong &lt;code&gt;hugo.toml&lt;/code&gt; bằng cách đặt &lt;code&gt;enableEmoji = true&lt;/code&gt;. Hoặc sử dụng inline shortcodes. Ví dụ:&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Giới thiệu</title>
-      <link>//localhost:1313/vi/about/</link>
+      <link>/vi/about/</link>
       <pubDate>Thu, 02 Jan 2025 12:00:00 +0700</pubDate>
       
-      <guid>//localhost:1313/vi/about/</guid>
+      <guid>/vi/about/</guid>
       
       <description>&lt;h2 id=&#34;nhân-là-ai-&#34;&gt;Nhân là ai? 🧑🏻‍💻&lt;/h2&gt;
 &lt;p&gt;Xin chào! Tôi là &lt;strong&gt;Nhân&lt;/strong&gt;, một sinh viên Khoa học Máy tính đam mê với phát triển phần mềm, máy tính và công nghệ. Tôi chuyên về phát triển ứng dụng backend với &lt;span style=&#34;color: #16C47F; font-weight: bold; text-decoration-line: underline;&#34;&gt;Spring Boot&lt;/span&gt; và &lt;span style=&#34;color: #F72C5B; font-weight: bold; text-decoration-line: underline;&#34;&gt;NestJS&lt;/span&gt;, và tôi thích đắm mình trong các dự án thách thức kỹ năng và sự sáng tạo của mình.&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>Error 404</title>
-      <link>//localhost:1313/vi/404/</link>
+      <link>/vi/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/vi/404/</guid>
+      <guid>/vi/404/</guid>
       
       <description>&lt;h1&gt;404: Page Not Found&lt;/h1&gt;
 &lt;p&gt;The page you are looking for does not exist.&lt;/p&gt;

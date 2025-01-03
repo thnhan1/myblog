@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Nhan blog</title>
-    <link>//localhost:1313/vi/tags/guide/</link>
+    <link>/vi/tags/guide/</link>
     <description>Recent content in Guide on Nhan blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
-    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="//localhost:1313/vi/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="/vi/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hướng Dẫn Hugo-Blog-Awesome</title>
-      <link>//localhost:1313/vi/posts/hugo-guide/</link>
+      <link>/vi/posts/hugo-guide/</link>
       <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
       
-      <guid>//localhost:1313/vi/posts/hugo-guide/</guid>
+      <guid>/vi/posts/hugo-guide/</guid>
       
       <description>&lt;h1 id=&#34;hỗ-trợ-emoji&#34;&gt;Hỗ trợ Emoji&lt;/h1&gt;
 &lt;p&gt;Bật tính năng hỗ trợ emoji trong &lt;code&gt;hugo.toml&lt;/code&gt; bằng cách đặt &lt;code&gt;enableEmoji = true&lt;/code&gt;. Hoặc sử dụng inline shortcodes. Ví dụ:&lt;/p&gt;

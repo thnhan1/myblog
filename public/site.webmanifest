@@ -1,7 +1,7 @@
 {
     "name": "Nhan blog",
     "short_name": "Nhan blog",
-    "start_url": "//localhost:1313/en/",
+    "start_url": "/en/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

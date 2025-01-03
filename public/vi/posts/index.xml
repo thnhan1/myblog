@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nhan blog</title>
+    <link>//localhost:1313/vi/posts/</link>
+    <description>Recent content on Nhan blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="//localhost:1313/vi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng Dẫn Hugo-Blog-Awesome</title>
+      <link>//localhost:1313/vi/posts/hugo-guide/</link>
+      <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
+      
+      <guid>//localhost:1313/vi/posts/hugo-guide/</guid>
+      
+      <description>&lt;h1 id=&#34;hỗ-trợ-emoji&#34;&gt;Hỗ trợ Emoji&lt;/h1&gt;
+&lt;p&gt;Bật tính năng hỗ trợ emoji trong &lt;code&gt;hugo.toml&lt;/code&gt; bằng cách đặt &lt;code&gt;enableEmoji = true&lt;/code&gt;. Hoặc sử dụng inline shortcodes. Ví dụ:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;:see_no_evil:&lt;/code&gt; &amp;#x1f648; &lt;code&gt;:hear_no_evil:&lt;/code&gt; &amp;#x1f649; &lt;code&gt;:speak_no_evil:&lt;/code&gt; &amp;#x1f64a;&lt;/p&gt;
+&lt;p&gt;thêm font cho emoji&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#50fa7b&#34;&gt;emoji&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff79c6&#34;&gt;font-family&lt;/span&gt;: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Bảng cheat sheet Emoji: &lt;a href=&#34;https://www.webfx.com/tools/emoji-cheat-sheet/&#34;&gt;Emoji cheat sheet&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

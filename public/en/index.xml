@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nhan blog</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content on Nhan blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo-Blog-Awesome Guide</title>
+      <link>//localhost:1313/en/posts/hugo-guide/</link>
+      <pubDate>Thu, 02 Jan 2025 21:33:49 +0700</pubDate>
+      
+      <guid>//localhost:1313/en/posts/hugo-guide/</guid>
+      
+      <description>&lt;h1 id=&#34;emoji-support&#34;&gt;Emoji support&lt;/h1&gt;
+&lt;p&gt;Turn on emoji support feature in &lt;code&gt;hugo.toml&lt;/code&gt; by setting &lt;code&gt;enableEmoji = true&lt;/code&gt;. Or using inline shortcodes. e.g.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;:see_no_evil:&lt;/code&gt; &amp;#x1f648; &lt;code&gt;:hear_no_evil:&lt;/code&gt; &amp;#x1f649; &lt;code&gt;:speak_no_evil:&lt;/code&gt; &amp;#x1f64a;&lt;/p&gt;
+&lt;p&gt;add font for emoji&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#50fa7b&#34;&gt;emoji&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;font-family&lt;/span&gt;: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Emoji cheat sheet: &lt;a href=&#34;https://www.webfx.com/tools/emoji-cheat-sheet/&#34;&gt;Emoji cheat sheet&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;rich-content&#34;&gt;Rich content&lt;/h1&gt;
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube privacy-enhanced shortcode&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;privacy=&amp;quot;0&amp;quot;&lt;/code&gt; for public, &lt;code&gt;privacy=&amp;quot;1&amp;quot;&lt;/code&gt; for unlisted, &lt;code&gt;privacy=&amp;quot;2&amp;quot;&lt;/code&gt;
+for private. e.g.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/en/about/</link>
+      <pubDate>Thu, 02 Jan 2025 12:00:00 +0700</pubDate>
+      
+      <guid>//localhost:1313/en/about/</guid>
+      
+      <description>&lt;h2 id=&#34;who-is-nhan-&#34;&gt;Who is Nhan? 🧑🏻‍💻&lt;/h2&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Nhan&lt;/strong&gt;, a passionate Computer Science student with a keen interest in software development and technology. I specialize in backend development with &lt;span style=&#34;color: #16C47F; font-weight: bold; text-decoration-line: underline;&#34;&gt;Spring Boot&lt;/span&gt; and &lt;span style=&#34;color: #F72C5B; font-weight: bold; text-decoration-line: underline;&#34;&gt;NestJS&lt;/span&gt;, and I love to immerse myself in coding projects that challenge my skills and creativity.&lt;/p&gt;
+&lt;h3 id=&#34;my-interests&#34;&gt;My Interests&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tech Blogging&lt;/strong&gt;: I enjoy reading and writing tech blogs, sharing my knowledge, and learning from the tech community.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coding&lt;/strong&gt;: Whether it&amp;rsquo;s developing new applications or contributing to open-source projects, coding is my true passion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Learning&lt;/strong&gt;: I believe in lifelong learning and continuously strive to improve my skills and stay updated with the latest trends in technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h3&gt;
+&lt;p&gt;Feel free to connect with me on &lt;a href=&#34;&#34;&gt;LinkedIn&lt;/a&gt; or follow my &lt;a href=&#34;https://www.github.com/thnhan1&#34;&gt;GitHub&lt;/a&gt; to see what I&amp;rsquo;m working on. Let&amp;rsquo;s build something amazing together!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Error 404</title>
+      <link>//localhost:1313/en/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/404/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

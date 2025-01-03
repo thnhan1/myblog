@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Nhan blog</title>
+    <link>//localhost:1313/en/en/</link>
+    <description>Recent content in Ens on Nhan blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2025 21:33:49 +0700</lastBuildDate><atom:link href="//localhost:1313/en/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/en/en/about/</link>
+      <pubDate>Thu, 02 Jan 2025 12:00:00 +0700</pubDate>
+      
+      <guid>//localhost:1313/en/en/about/</guid>
+      
+      <description>&lt;h2 id=&#34;who-is-nhan-&#34;&gt;Who is Nhan? 🧑🏻‍💻&lt;/h2&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Nhan&lt;/strong&gt;, a passionate Computer Science student with a keen interest in software development and technology. I specialize in backend development with &lt;span style=&#34;color: #16C47F; font-weight: bold; text-decoration-line: underline;&#34;&gt;Spring Boot&lt;/span&gt; and &lt;span style=&#34;color: #F72C5B; font-weight: bold; text-decoration-line: underline;&#34;&gt;NestJS&lt;/span&gt;, and I love to immerse myself in coding projects that challenge my skills and creativity.&lt;/p&gt;
+&lt;h3 id=&#34;my-interests&#34;&gt;My Interests&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tech Blogging&lt;/strong&gt;: I enjoy reading and writing tech blogs, sharing my knowledge, and learning from the tech community.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coding&lt;/strong&gt;: Whether it&amp;rsquo;s developing new applications or contributing to open-source projects, coding is my true passion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Learning&lt;/strong&gt;: I believe in lifelong learning and continuously strive to improve my skills and stay updated with the latest trends in technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h3&gt;
+&lt;p&gt;Feel free to connect with me on &lt;a href=&#34;&#34;&gt;LinkedIn&lt;/a&gt; or follow my &lt;a href=&#34;https://www.github.com/thnhan1&#34;&gt;GitHub&lt;/a&gt; to see what I&amp;rsquo;m working on. Let&amp;rsquo;s build something amazing together!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Error 404</title>
+      <link>//localhost:1313/en/en/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/en/404/</guid>
+      
+      <description>&lt;h1&gt;404: Page Not Found&lt;/h1&gt;
+&lt;p&gt;The page you are looking for does not exist.&lt;/p&gt;
+&lt;a href=&#34;{{ &#34;/&#34; | relURL }}&#34;&gt;Go back to the homepage&lt;/a&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
